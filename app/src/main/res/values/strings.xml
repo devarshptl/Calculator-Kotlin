@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="default_display_text">12345678</string>
+    <string name="btn_zero_text">0</string>
+    <string name="btn_one_text">1</string>
+    <string name="btn_two_text">2</string>
+    <string name="btn_three_text">3</string>
+    <string name="btn_four_text">4</string>
+    <string name="btn_five_text">5</string>
+    <string name="btn_six_text">6</string>
+    <string name="btn_seven_text">7</string>
+    <string name="btn_eight_text">8</string>
+    <string name="btn_nine_text">9</string>
+    <string name="btn_point_text">.</string>
+    <string name="btn_plus_text">+</string>
+    <string name="btn_subtract_text">-</string>
+    <string name="btn_multiply_text">*</string>
+    <string name="btn_divide_text">/</string>
+    <string name="btn_clear_text">C</string>
+    <string name="btn_equal_text">=</string>
+</resources>
